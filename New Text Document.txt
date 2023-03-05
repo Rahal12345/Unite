@@ -1,0 +1,1 @@
+python score.py -s src.txt -r ref.txt -t trans.txt --model E:\education\FYP\UniTE-main\UniTE-models\UniTE-models\UniTE-UP\checkpoints\UniTE-UP.ckpt --to_json results.src.json --gpus 0 --hparams_file_path E:\education\FYP\UniTE-main\UniTE-models\UniTE-models\UniTE-UP\hparams.src.yaml
